@@ -24,10 +24,10 @@ description: My Coding Journey! Learn more about me <a href="http://www.jessieko
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-    - GitHub Pages: "https://pages.github.com/"
+  #Resources:
+  #  - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
+  #  - Learn markdown: "http://www.markdowntutorial.com/"
+  #  - GitHub Pages: "https://pages.github.com/"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -73,7 +73,6 @@ social-network-links:
   rss: true
   email: "jessieko608@gmail.com"
   github: https://github.com/heyjessiehey
-  myWebsite: http://www.jessieko.com
 #  google-plus: +DeanAttali
   linkedin: https://linkedin.com/in/jessie-ko-99816314b/
 #  xing: yourname
@@ -96,7 +95,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "www.jessieko.com"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "heyjessiehey.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
