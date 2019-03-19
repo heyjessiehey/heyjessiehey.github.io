@@ -22,9 +22,8 @@ title: Jessie Ko
 
 # List of links in the navigation bar
 navbar-links:
+  About Me: "http://www.jessieko.com"
   Tags: "https://heyjessiehey.github.io/tags"
-  About Me: "tags"
-
   #Link:
   #  - Learn markdown: "http://www.markdowntutorial.com/"
   #  - My GitHub: "https://heyjessiehey.github.com/"
@@ -245,6 +244,7 @@ prose:
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
+
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
