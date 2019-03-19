@@ -22,7 +22,7 @@ title: Jessie Ko
 
 # List of links in the navigation bar
 navbar-links:
-  #About Me: "aboutme"
+  About Me: "http://www.jessieko.com"
   Link:
     - My Website: "http://www.jessieko.com"
   #  - Learn markdown: "http://www.markdowntutorial.com/"
