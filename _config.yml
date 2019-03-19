@@ -22,8 +22,8 @@ title: Jessie Ko
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "http://www.jessieko.com"
-  Tags: "tags.html"
+  Tags: "https://heyjessiehey.github.io/tags"
+  About Me: "tags"
 
   #Link:
   #  - Learn markdown: "http://www.markdowntutorial.com/"
