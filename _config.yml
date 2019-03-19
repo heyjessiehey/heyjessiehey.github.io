@@ -245,5 +245,10 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
 
+theme_settings:
+    title: My Jekyll Blog                 # Name of website
+    #avatar: assets/img/triangular.svg     # Path of avatar image, to be displayed in the theme's header
+    gravatar: f98....6bfc                 # MD5 hash of your email address
+    description: My blog posts            # Short description, primarily used by search engines
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
