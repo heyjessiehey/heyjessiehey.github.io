@@ -160,7 +160,7 @@ kramdown:
     span:
       line_numbers: true
     block:
-      line_numbers: false
+      line_numbers: true
 
 permalink: /:year-:month-:day-:title/
 paginate: 5
