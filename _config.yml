@@ -158,9 +158,9 @@ kramdown:
     default_lang: java
     css_class: 'highlight'
     span:
-      line_numbers: false
-    block:
       line_numbers: true
+    block:
+      line_numbers: false
 
 permalink: /:year-:month-:day-:title/
 paginate: 5
