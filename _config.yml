@@ -24,6 +24,8 @@ title: Jessie Ko
 navbar-links:
   Portfolio Website: "http://www.jessieko.com"
   Tags: "https://heyjessiehey.github.io/tags"
+  Bookmarks: 
+    - Markdown: "https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet"
   #Link:
   #  - Learn markdown: "http://www.markdowntutorial.com/"
   #  - My GitHub: "https://heyjessiehey.github.com/"
